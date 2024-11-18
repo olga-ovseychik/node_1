@@ -1,0 +1,13 @@
+{
+  "name": "task_03",
+  "version": "1.0.0",
+  "description": "This is a test of evaluate_rpn_vm package.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olga-ovseychik/node_1.git"
+  },
+  "author": "Volha Marozava",
+  "dependencies": {
+    "e_rpn_vm": "^1.0.0"
+  }
+}
